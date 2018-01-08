@@ -1,8 +1,0 @@
-{
-  "name": "NYP SDL",
-  "description": "SDL Stuff",
-  "repository": "https://github.com/SliceofButter/NYPSDL",
-  "logo": "https://nodejs.org/images/logos/nodejs.png",
-  "keywords": ["NYP", "SDL", "static"]
-
-}
