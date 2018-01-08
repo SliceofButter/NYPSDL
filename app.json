@@ -1,5 +1,7 @@
- "name": "NYO SDL",
-  "description": "SDL Work",
+{
+  "name": "NYP SDL",
+  "description": "SDL Stuff",
   "repository": "https://github.com/SliceofButter/NYPSDL",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["NYP", "SDL", "static"]
+}
