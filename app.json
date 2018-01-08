@@ -3,10 +3,13 @@
   "description": "SDL Stuff",
   "repository": "https://github.com/SliceofButter/NYPSDL",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["NYP", "SDL", "static"]
+  "keywords": ["NYP", "SDL", "static"],
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-python"
+    },
+    {
+      "url": "heroku/python"
     }
     ]
 }
