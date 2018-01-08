@@ -6,7 +6,7 @@
   "keywords": ["NYP", "SDL", "static"],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-python"
+      "url": "heroku/python"
     }
     ]
 }
